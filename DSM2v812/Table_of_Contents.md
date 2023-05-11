@@ -2,7 +2,7 @@
 
 # Contents
 
--   [Overview](DSM2_Overview)
+-   [Overview](DSM2_Overview.md)
 -   [Getting Started ](Getting_Started)
     -   [Download and
         installation](Getting-Started_8323150.html#GettingStarted-DownloadandInstallation)
